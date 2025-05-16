@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Main-Class: InterfaceLogiciel.Main
+Class-Path: lib/mysql-connector-java-9.0.0.jar lib/sqlite-jdbc-3.49.1.0.jar
